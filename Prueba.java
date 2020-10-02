@@ -4,6 +4,7 @@ public class Prueba {
 
 		System.out.println("Luis Martínez Alonso");
 		System.out.println("Lugar de nacimiento: León, Año: 2002");
+		System.out.println("Residencia: La Virgen del Camino");
 
 	}
 
